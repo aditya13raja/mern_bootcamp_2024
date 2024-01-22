@@ -2,7 +2,7 @@
 
 ## Aditya Raj & 12113527 
 
-### Project Name: Hotel Booking App
+### Project Name: Tripo(hotel-booking-website)
 
 - Which problem Project is Solving?
   
